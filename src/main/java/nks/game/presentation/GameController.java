@@ -7,7 +7,7 @@ import nks.game.service.GameService;
 import nks.game.service.QuestionService;
 
 //@RestController
-public class QuestionController {
+public class GameController {
 
 	private GameService gameService;
 	private QuestionService questionService;
